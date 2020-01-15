@@ -6,5 +6,13 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <android.support.desing.widget.FloatingActionButton
+        android.id="@+id/btnSend"
+        android:layout_width="wrap_content"
+        android:layout_heigth="wrap_content"
+        android:clikable="true"
+        android:src="@drawable/ic_sendButton"
+        />
+
 
 </RelativeLayout>
