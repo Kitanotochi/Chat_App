@@ -9,9 +9,15 @@
     <android.support.desing.widget.FloatingActionButton
         android.id="@+id/btnSend"
         android:layout_width="wrap_content"
+        android:layout_alignParentBotton="true"
         android:layout_heigth="wrap_content"
         android:clikable="true"
         android:src="@drawable/ic_sendButton"
+        android:tint="@android:color/white"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+
+
         />
 
 
