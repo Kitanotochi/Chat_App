@@ -25,6 +25,7 @@
         android:layout_width="match_content"
         android:layout_heigth="wrap_content"
         android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
         android:layout_to_LeftOf="@id/btnSend"
         ></android.support.design.widget.TextInputLayout>
 </RelativeLayout>
