@@ -30,6 +30,8 @@
         >
         <EditText
             android:layout_width="match_content"
-            android:layout_heigth="wrap_content"/>
+            android:layout_heigth="wrap_content"
+            android:id="@+id/MessegeField"
+            android:hint="Введите сообщение"/>
     </android.support.design.widget.TextInputLayout>
 </RelativeLayout>
